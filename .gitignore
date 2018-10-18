@@ -1,0 +1,16 @@
+binance/.tox
+binance/.cache/v/cache
+binance/docs/_build
+binance/binance/__pycache__/
+binance/main/__pycache__/
+binance/tests/__pycache__/
+binance/dist/
+binance/python_binance.egg-info/
+
+binance-official-api-docs/
+
+binance-env/
+.vscode/
+
+*.~
+*/__pycache__/
